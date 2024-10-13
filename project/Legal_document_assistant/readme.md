@@ -17,7 +17,7 @@ The **Legal Document Assistant** integrates a **Retrieval-Augmented Generation (
 
 ### RAG Flow
 
-![RAG Flow](./images/llm%20rag%20flow.png)
+![RAG Flow](images/llm rag flow.png)
 
 ---
 
@@ -60,7 +60,7 @@ The system uses **Retrieval-Augmented Generation (RAG)** to deliver accurate and
 
 ### Interface
 
-![Streamlit Interface](./images/llm.png)
+![Streamlit Interface](images/llm.png)
 
 - **Query Input**: Enter legal queries for processing.
 - **Ask Button**: Submits queries, retrieves documents, and generates summaries.
@@ -70,7 +70,7 @@ The system uses **Retrieval-Augmented Generation (RAG)** to deliver accurate and
 
 ### Ingestion Pipeline
 
-![Airflow](./images/airflow.png)
+![Airflow](images/airflow.png)
 
 The **Apache Airflow** pipeline handles ETL (Extract, Transform, Load) for legal documents:
 
@@ -90,7 +90,7 @@ The **Apache Airflow** pipeline handles ETL (Extract, Transform, Load) for legal
 
 ### Monitoring Dashboard
 
-![Grafana](./images/dashboard.png)
+![Grafana](images/dashboard.png)
 
 Key performance metrics are tracked in **Grafana**:
 
